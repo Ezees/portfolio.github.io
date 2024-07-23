@@ -22,6 +22,7 @@
           "iframe[loading]"
         ]
       }
-    ]
+    ],
+    "highest-available-document-mode": "off"
   }
 }
